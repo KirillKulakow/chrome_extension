@@ -1,0 +1,10 @@
+{
+    "name": "Test Chrome Extension",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "images/ok.png",
+        "default_popup": "src/popup.html"
+    }
+  }
